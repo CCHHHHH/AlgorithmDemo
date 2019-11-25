@@ -15,6 +15,7 @@ public class Solution414 {
     }
 
     public static int thirdMax(int[] nums) {
+        //测试测试
         return 1;
     }
 }
